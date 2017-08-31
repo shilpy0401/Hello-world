@@ -1,5 +1,2 @@
 # Hello-world
-Hi,
-How r u doing??
-ok bye
-have a nice day....
+Testing Git API to fetch all changed files in a pull request.
